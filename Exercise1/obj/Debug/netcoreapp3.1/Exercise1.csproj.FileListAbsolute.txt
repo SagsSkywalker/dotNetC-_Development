@@ -1,0 +1,13 @@
+D:\Unosquare SDET\DevelopmentC#\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.exe
+D:\Unosquare SDET\DevelopmentC#\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.deps.json
+D:\Unosquare SDET\DevelopmentC#\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.json
+D:\Unosquare SDET\DevelopmentC#\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.dev.json
+D:\Unosquare SDET\DevelopmentC#\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.dll
+D:\Unosquare SDET\DevelopmentC#\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.pdb
+D:\Unosquare SDET\DevelopmentC#\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csprojAssemblyReference.cache
+D:\Unosquare SDET\DevelopmentC#\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfoInputs.cache
+D:\Unosquare SDET\DevelopmentC#\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfo.cs
+D:\Unosquare SDET\DevelopmentC#\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csproj.CoreCompileInputs.cache
+D:\Unosquare SDET\DevelopmentC#\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.dll
+D:\Unosquare SDET\DevelopmentC#\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.pdb
+D:\Unosquare SDET\DevelopmentC#\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.genruntimeconfig.cache
